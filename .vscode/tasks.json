@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "command": "cmd",
+    "args": ["/C"],
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++ ${relativeFile} -o ${relativeFile}.out && ./${relativeFile}.out >output.txt <input.txt"
+        }
+    ]
+}
