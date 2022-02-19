@@ -1,2 +1,3 @@
-Sum of 10 and 20 is 30
-Sum of 20 and 30 is 50
+Case #1: Mollaristan is ruled by Bob.
+Case #2: Auritania is ruled by Alice.
+Case #3: Zizily is ruled by nobody.
