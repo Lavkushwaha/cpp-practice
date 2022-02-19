@@ -1,2 +1,2 @@
-# Practive
+# Practice
 ## GFG
